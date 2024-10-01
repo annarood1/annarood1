@@ -1,16 +1,9 @@
 # Hello, world! 👋
 
-# Header 1
+## About Me
 
-# Header 2
+- My name is Anna.
+- I am 21 years old.
+![Kitty relaxing in grass](kitty.jpg "This photo represents my state of mind.")
+- I am a student of Interactive Design at SAIT.
 
-# Header 3
-
-This is normal text.
-
-*This is emphatic text.*
-
-**This is bold text.**
-
-- Foo
-- Bar
